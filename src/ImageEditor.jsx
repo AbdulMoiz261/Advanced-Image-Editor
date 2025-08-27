@@ -390,7 +390,7 @@ export default function ImageEditor() {
         <Box title="Crop Tools" icon="fas fa-crop-alt">
           <Button 
             onClick={toggleCrop} 
-            type={cropMode ? "success" : "warning"}
+            type={cropMode ? "success" : "upload"}
             icon="fas fa-crop-alt"
           >
             {cropMode ? 'Crop Active' : 'Enable Crop'}

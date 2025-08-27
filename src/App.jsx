@@ -7,7 +7,7 @@ function App() {
     <div className="app-container">
       <div className="header">
         <h1><i className="fas fa-image"></i> Advanced Image Editor</h1>
-        <p>Edit your images with drawing, shapes and cropping tools</p>
+        <p>Edit your images with drawing and cropping tools</p>
       </div>
       <ImageEditor />
     </div>

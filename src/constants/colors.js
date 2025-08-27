@@ -1,6 +1,6 @@
 export const colors = {
   primary: {
-    background: "linear-gradient(to right, rgb(75, 108, 183), rgb(24, 40, 72))",
+    background: "linear-gradient(to right, rgb(75, 108, 183), #6A11CB)",
     text: "#ffffff"
   },
   success: {
@@ -16,11 +16,11 @@ export const colors = {
     text: "#ffffff"
   },
   info: {
-    background: "linear-gradient(to right, #4b6cb7, #182848)",
+    background: "linear-gradient(to right, #4b6cb7, #6A11CB)",
     text: "#ffffff"
   },
   upload: {
-    background: "linear-gradient(to right, rgb(75, 108, 183), rgb(24, 40, 72))",
+    background: "linear-gradient(to right, rgb(75, 108, 183), #6A11CB)",
     text: "#ffffff"
   },
   drawingColors: ['#ff6b6b', '#4b6cb7', '#0ba360', '#f46b45', '#8e2de2', '#000000'],
